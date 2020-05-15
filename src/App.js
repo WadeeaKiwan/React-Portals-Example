@@ -15,7 +15,7 @@ const App = () => {
             <h2>Why?</h2>
             <p>
               <strong>React portals</strong> allow us to render an html element in a different place
-              than it’s normally can be rendered in the DOM hierarchy of the parent component.
+              than it normally can be rendered in the DOM hierarchy of the parent component.
             </p>
             <br />
             <p>It can be used in class-based components and functional components.</p>
